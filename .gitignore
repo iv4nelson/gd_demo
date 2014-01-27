@@ -1,0 +1,5 @@
+# My file contain extension ignored by git
+*.pyc
+*.class
+*~
+zim0001.ws
